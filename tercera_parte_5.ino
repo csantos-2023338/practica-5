@@ -21,8 +21,6 @@ int x = (0);
 void setup()
 {
 pinMode (8, INPUT);
-pinMode (9, INPUT);
-pinMode (10, INPUT);
 pinMode (2, OUTPUT);
 pinMode (3, OUTPUT);
 pinMode (4, OUTPUT);
